@@ -1,0 +1,52 @@
+SharpCutscenes_HelloWorld=
+	Hello, world!{n}
+	You successfully created a sample cutscene.
+
+SharpCutscenes_ExampleCutscene_Intro=
+	[MADELINE left sad]
+	aw man we testing again
+
+SharpCutscenes_ExampleCutscene_TestPlayer=
+	Testing player methods.
+
+
+SharpCutscenes_ExampleCutscene_TestPlayer_CanMove=
+	Currently moving is disabled - waiting 5 seconds to test.
+
+SharpCutscenes_ExampleCutscene_TestPlayer_CanMove2=
+	Enabled moving - waiting 5 seconds to test.
+
+SharpCutscenes_ExampleCutscene_TestPlayer_CanMove3=
+	Disabled moving again - waiting 5 seconds to test.
+
+
+SharpCutscenes_ExampleCutscene_TestPlayer_CanPause=
+	Currently pausing is enabled - waiting 5 seconds to test.
+
+SharpCutscenes_ExampleCutscene_TestPlayer_CanPause2=
+	Disabled pausing - waiting 5 seconds to test.
+
+SharpCutscenes_ExampleCutscene_TestPlayer_CanPause3=
+	Enabled pausing again - waiting 5 seconds to test.
+
+
+SharpCutscenes_ExampleCutscene_TestPlayer_CanPause=
+	Currently retrying is enabled - waiting 5 seconds to test.
+
+SharpCutscenes_ExampleCutscene_TestPlayer_CanPause2=
+	Disabled retrying - waiting 5 seconds to test.
+
+SharpCutscenes_ExampleCutscene_TestPlayer_CanPause3=
+	Enabled retrying again - waiting 5 seconds to test.
+
+SharpCutscenes_ExampleCutscene_TestPlayer_DashCount1=
+	Madeline currently has {0} max dashes.
+	Now setting max dash count to 0.
+	Waiting 5 seconds to use up all dashes.
+
+SharpCutscenes_ExampleCutscene_TestPlayer_DashCount2=
+	Madeline currently has {0} dashes.
+	Now setting dash count to 2.
+
+SharpCutscenes_ExampleCutscene_TestPlayer_DashCount3=
+	Restoring dash count.
