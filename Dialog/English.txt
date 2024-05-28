@@ -1,0 +1,3 @@
+SharpCutscenes_HelloWorld=
+	Hello, world!{n}
+	You successfully created a sample cutscene.
